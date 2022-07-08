@@ -128,7 +128,6 @@ namespace SSB
             pictureBox8.Visible = true;
             pictureBox9.Visible = true;
         }
-
         private void pictureBox9_Click(object sender, EventArgs e)
         {
             textBox1.Visible = true;
