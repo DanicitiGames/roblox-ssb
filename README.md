@@ -1,5 +1,5 @@
 <h1 align="center">Roblox SSB</h1>
-<p align="center"><a><img src="https://i.imgur.com/fSBQO1l.png" title="logo" width="128" height="128"/></a></p>
+<p align="center"><a><img src="https://i.imgur.com/fSBQO1l.png#vitrinedev" title="logo" width="128" height="128"/></a></p>
 <p align="center">Roblox Server Shortcut Builder</p>
 
 
